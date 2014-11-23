@@ -7,7 +7,9 @@
     </types>
     <types>
         <members>payrollinvoice__c.INVAMT__c</members>
+        <members>payrollinvoice__c.INVFreq__c</members>
         <members>payrollinvoice__c.INVNO__c</members>
+        <members>payrollinvoice__c.INVname1__c</members>
         <members>payrollinvoice__c.INVname__c</members>
         <name>CustomField</name>
     </types>
